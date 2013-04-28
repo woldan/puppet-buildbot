@@ -1,0 +1,7 @@
+# Buildbot module for Puppet
+
+A basic module to manage buildbot installations using Puppet.
+
+Currently this is work in progress and not yet ready for public
+usage. You are welcome to participate, though.
+
